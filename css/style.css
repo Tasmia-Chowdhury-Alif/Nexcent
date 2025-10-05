@@ -171,3 +171,27 @@ nav{
 }
 
 /* hero style End */
+
+
+/* clients style Start */
+
+.clients-text {
+	padding-top: 40px;
+	padding-bottom: 8px;
+	font-family: var(--font-family);
+	color: var(--neutral-d-grey);
+	text-align: center;
+}	
+.clients-text h2{
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 122%;
+}
+
+.clients-text p{
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 150%;
+}
+
+/* clients style End */
